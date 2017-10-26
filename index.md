@@ -18,9 +18,9 @@
 
 ### Portifólio
 > Projeto Prefeitura: SMT Consultas <br/>
-> Desenvolvido em Android
+> Desenvolvido em Android<br/>
 > https://github.com/KassioHolanda/Projetos-Prefeitura/tree/master/SMT-Consultas <br/><br/><br/>
-> Projeto SIEE 
-> Desenvolvido em Python/Django
+> Projeto SIEE <br/>
+> Desenvolvido em Python/Django <br/>
 > https://github.com/KassioHolanda/Tecnologo_Em_ADS_IFPI/tree/master/Periodo%202017.1/Organiza%C3%A7%C3%A3o%20de%20Sistemas%20e%20Metodos/ProjetoSIEE
 
