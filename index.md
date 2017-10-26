@@ -1,5 +1,6 @@
 
 ### Dados Pessoais
-#### Kássio Lucas de Holanda Leódido
-#### Aluno do Curso de ADS / 4º periodo
+>> Kássio Lucas de Holanda Leódido
+>> Aluno do Curso de ADS / 4º periodo
+>> kassioleodido@gmail.com
 
