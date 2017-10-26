@@ -11,9 +11,9 @@
 > Conhecimento em HTML/CSS <br/>
 
 ### Interesses acadêmicos e Professionais <br/>
-> Me aprofundar nas ferramentas WEB <br/>
-> Me aprofundar em Python e suas Ferramentas <br/>
-> Me aprofundar em JAVA e suas Ferramentas <br/>
+> Me aperfeiçoar nas ferramentas WEB <br/>
+> Me aperfeiçoar em Python e suas Ferramentas <br/>
+> Me aperfeiçoar em JAVA e suas Ferramentas <br/>
 > Trabalhar com Android <br/>
 
 ### Portifólio
