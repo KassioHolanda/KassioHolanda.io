@@ -1,13 +1,13 @@
 
-### Dados Pessoais ..
->> Kássio Lucas de Holanda Leódido ..
->> Aluno do Curso de ADS / 4º periodo .. 
->> kassioleodido@gmail.com .. 
+### Dados Pessoais <br/>
+>> Kássio Lucas de Holanda Leódido <br/>
+>> Aluno do Curso de ADS / 4º periodo <br/>
+>> kassioleodido@gmail.com <br/>
 
-### Habilidades obtidas ao decorrer do curso .. 
->> Conhecimento em JAVA OO .. 
->> Conhecimento em Android .. 
->> Conhecimento em Python .. 
->> Conhecimento em HTML/CSS ..
+### Habilidades obtidas ao decorrer do curso <br/>
+>> Conhecimento em JAVA OO <br/>
+>> Conhecimento em Android <br/>
+>> Conhecimento em Python <br/>
+>> Conhecimento em HTML/CSS <br/>
 
 
