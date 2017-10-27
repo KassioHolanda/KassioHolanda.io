@@ -6,7 +6,7 @@
 > Estagiario da Prefeitura Munipal de Teresina <br/>
 
 ### Habilidades obtidas <br/>
-> Conhecimento em JAVA OO <br/>
+> Conhecimento em JAVA <br/>
 > Conhecimento em Android <br/>
 > Conhecimento em Python <br/>
 > Conhecimento em HTML/CSS <br/>
@@ -16,6 +16,7 @@
 > Me aperfeiçoar em Python e suas Ferramentas <br/>
 > Me aperfeiçoar em JAVA e suas Ferramentas <br/>
 > Trabalhar com Android <br/>
+> Trabalhar com Jogos <br/>
 
 ### Portifólio
 > Projeto Prefeitura: SMT Consultas <br/>
@@ -33,4 +34,4 @@
 > Retrofit, utilizado para obter ter uma transmissão de dados entre aplicação e servidor.<br/>
 
 ### Links Interessantes
-
+> gamestorrent.biz
