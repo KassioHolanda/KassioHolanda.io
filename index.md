@@ -18,7 +18,7 @@
 > Trabalhar com Android <br/>
 > Trabalhar com Jogos <br/>
 
-### Portifólio*
+### Portifólio
 > Projeto Prefeitura: App para consultas sobre dados da Prefeitura<br/>
 > [SMT Consultas](https://github.com/KassioHolanda/Projetos-Prefeitura/tree/master/SMT-Consultas) <br/>
 > Desenvolvido em Android<br/>
