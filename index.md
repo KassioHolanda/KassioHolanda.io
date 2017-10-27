@@ -26,7 +26,7 @@
 > [Projeto SIEE](https://github.com/fabiomsrs/SIEE) <br/>
 > Desenvolvido em Python/Django <br/>
 > <br/>
->> Projeto IFPI: Trabalho de Conclução de Disciplina<br/>Programação Orientada a Objeto<br/>
+> Projeto IFPI: Trabalho de Conclução de Disciplina<br/>Programação Orientada a Objeto<br/>
 > [Hemocentro](https://github.com/KassioHolanda/Tecnologo_Em_ADS_IFPI/tree/master/Periodo%202016.2/Atividades_POO/App%20Android/Hemocentros)<br/>
 > Desenvolvido em Android<br/>
 <br/>
