@@ -20,7 +20,7 @@
 ### Portifólio
 > Projeto Prefeitura: SMT Consultas <br/>
 > Desenvolvido em Android<br/>
-![](http://gdurl.com/ad_m "Imagem Tela Principal")
+![](http://gdurl.com/ad_m "Imagem Tela Principal")<br/>
 > https://github.com/KassioHolanda/Projetos-Prefeitura/tree/master/SMT-Consultas <br/><br/><br/>
 > Projeto SIEE <br/>
 > Desenvolvido em Python/Django <br/>
