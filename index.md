@@ -19,7 +19,7 @@
 > Trabalhar com Jogos <br/>
 
 ### Portifólio
-> Projeto Prefeitura: SMT [Consultas](https://github.com/KassioHolanda/Projetos-Prefeitura/tree/master/SMT-Consultas) <br/>
+> Projeto Prefeitura: [SMT Consultas](https://github.com/KassioHolanda/Projetos-Prefeitura/tree/master/SMT-Consultas) <br/>
 > Desenvolvido em Android<br/>
 > <br/>
 > [Projeto SIEE](https://github.com/fabiomsrs/SIEE) <br/>
