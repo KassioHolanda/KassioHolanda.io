@@ -32,7 +32,7 @@
 
 ### Expectativas
 > As expectativas quanto a disciplina é adquirir conhecimento quanto a criação e manipulação de dados em uma API.<br/>
-> Aprimorar meus conhecimentos em Django
+> Aprimorar meus conhecimentos em Django.
 
 ### Temas 
 > Retrofit, utilizado para obter ter uma transmissão de dados entre aplicação e servidor.<br/>
