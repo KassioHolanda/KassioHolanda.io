@@ -35,4 +35,4 @@
 > Retrofit, utilizado para obter ter uma transmissão de dados entre aplicação e servidor.<br/>
 
 ### Links Interessantes
-> gamestorrent.biz
+> 
