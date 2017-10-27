@@ -19,7 +19,8 @@
 > Trabalhar com Jogos <br/>
 
 ### Portifólio
-> Projeto Prefeitura: [SMT Consultas](https://github.com/KassioHolanda/Projetos-Prefeitura/tree/master/SMT-Consultas) <br/>
+> Projeto Prefeitura: App para consultas sobre dados da Prefeitura<br/>
+> [SMT Consultas](https://github.com/KassioHolanda/Projetos-Prefeitura/tree/master/SMT-Consultas) <br/>
 > Desenvolvido em Android<br/>
 > <br/>
 > Projeto IFPI: Organização de Sistemas e Metodos<br/>
