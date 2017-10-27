@@ -30,7 +30,7 @@
 > [Hemocentro](https://github.com/KassioHolanda/Tecnologo_Em_ADS_IFPI/tree/master/Periodo%202016.2/Atividades_POO/App%20Android/Hemocentros)<br/>
 > Desenvolvido em Android<br/>
 <br/>
->> Projeto IFPI: Trabalho de Conclução de Disciplina<br/>Programação Corporativa<br/>
+> Projeto IFPI: Trabalho de Conclução de Disciplina<br/>Programação Corporativa<br/>
 > [Jaca Eventos](https://github.com/leonfers/JacaEventos)<br/>
 > Desenvolvido em Python/Django<br/>
 
