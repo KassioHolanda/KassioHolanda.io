@@ -22,7 +22,7 @@
 > Desenvolvido em Android<br/>
 ![](http://gdurl.com/ad_m "Tela Consulta")
 ![](http://gdurl.com/t-R0 "Tela Principal")
-![](http://gdurl.com/rTKu "Tela do Historico de Status")
+![](http://gdurl.com/rTKu "Tela do Historico de Status")<br/>
 > https://github.com/KassioHolanda/Projetos-Prefeitura/tree/master/SMT-Consultas <br/><br/><br/>
 > Projeto SIEE <br/>
 > Desenvolvido em Python/Django <br/>
