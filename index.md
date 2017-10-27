@@ -1,11 +1,11 @@
 
-### >>>* Dados Pessoais
+###  Dados Pessoais
 > Kássio Lucas de Holanda Leódido <br/>
 > Aluno do Curso de ADS / 4º periodo <br/>
 > kassioleodido@gmail.com <br/>
 > Estagiario da Prefeitura Munipal de Teresina <br/>
 
-### >>>* Habilidades obtidas
+### >>> * Habilidades obtidas
 > Conhecimento em JAVA <br/>
 > Conhecimento em Android <br/>
 > Conhecimento em Python <br/>
