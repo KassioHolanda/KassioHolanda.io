@@ -19,12 +19,12 @@
 > Trabalhar com Jogos <br/>
 
 ### Portifólio
-> Projeto Prefeitura: SMT Consultas <br/>
+> Projeto Prefeitura: SMT [Consultas](https://github.com/KassioHolanda/Projetos-Prefeitura/tree/master/SMT-Consultas) <br/>
 > Desenvolvido em Android<br/>
-> https://github.com/KassioHolanda/Projetos-Prefeitura/tree/master/SMT-Consultas <br/><br/><br/>
-> Projeto SIEE <br/>
+> <br/>
+> [Projeto SIEE](https://github.com/fabiomsrs/SIEE) <br/>
 > Desenvolvido em Python/Django <br/>
-> https://github.com/fabiomsrs/SIEE
+> 
 
 ### Expectativas
 > As expectativas quanto a disciplina é adquirir conhecimento quanto a criação e manipulação de dados em uma API.<br/>
