@@ -24,7 +24,9 @@
 > <br/>
 > [Projeto SIEE](https://github.com/fabiomsrs/SIEE) <br/>
 > Desenvolvido em Python/Django <br/>
-> 
+> <br/>
+> [Hemocentro](https://github.com/KassioHolanda/Tecnologo_Em_ADS_IFPI/tree/master/Periodo%202016.2/Atividades_POO/App%20Android/Hemocentros)<br/>
+> Desenvolvido em Android<br/>
 
 ### Expectativas
 > As expectativas quanto a disciplina é adquirir conhecimento quanto a criação e manipulação de dados em uma API.<br/>
