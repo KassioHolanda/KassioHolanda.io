@@ -25,11 +25,11 @@
 > https://github.com/KassioHolanda/Tecnologo_Em_ADS_IFPI/tree/master/Periodo%202017.1/Organiza%C3%A7%C3%A3o%20de%20Sistemas%20e%20Metodos/ProjetoSIEE
 
 ### Expectativas
-> As expectativas quanto a disciplina é adquirir conhecimento quanto a criação e manipulação de dados em uma API.
+> As expectativas quanto a disciplina é adquirir conhecimento quanto a criação e manipulação de dados em uma API.<br/>
 > Aprimorar meus conhecimentos em Django
 
 ### Temas 
-> Retrofit, utilizado para obter ter uma transmissão de dados entre aplicação e servidor.
+> Retrofit, utilizado para obter ter uma transmissão de dados entre aplicação e servidor.<br/>
 
 ### Links Interessantes
 
