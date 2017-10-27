@@ -27,7 +27,7 @@
 > Projeto SIEE <br/>
 > Desenvolvido em Python/Django <br/>
 ![](http://gdurl.com/0xh5 "Tela de Login")
-![](http://gdurl.com/Q8DP "Tela de Vagas")
+![](http://gdurl.com/Q8DP "Tela de Vagas")<br/>
 >https://github.com/KassioHolanda/Tecnologo_Em_ADS_IFPI/tree/master/Periodo%202017.1/Organiza%C3%A7%C3%A3o%20de%20Sistemas%20e%20Metodos/ProjetoSIEE
 
 ### Expectativas
