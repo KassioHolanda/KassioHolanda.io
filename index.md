@@ -1,22 +1,18 @@
 
 ###  Dados Pessoais
 > Kássio Lucas de Holanda Leódido <br/>
-> Aluno do Curso de ADS / 4º periodo <br/>
+> Analista de Sistemas <br/>
 > kassioleodido@gmail.com <br/>
-> Estagiario da Prefeitura Munipal de Teresina <br/>
+> Trabalho atualmente na MW(MediaWorks Sistemas de Informatica) <br/>
 
 ### Habilidades obtidas
 > Conhecimento em JAVA <br/>
 > Conhecimento em Android <br/>
 > Conhecimento em Python <br/>
 > Conhecimento em HTML/CSS <br/>
-
-### Interesses acadêmicos e Professionais
-> Me aperfeiçoar nas ferramentas WEB <br/>
-> Me aperfeiçoar em Python e suas Ferramentas <br/>
-> Me aperfeiçoar em JAVA e suas Ferramentas <br/>
-> Trabalhar com Android <br/>
-> Trabalhar com Jogos <br/>
+> Conhecimento em Fluter <br/>
+> Conhecimento em VueJS <br/> 
+> > Conhecimento em Ruby <br/> 
 
 ### Portifólio
 > Projeto Prefeitura: App para consultas sobre dados da Prefeitura<br/>
@@ -34,6 +30,7 @@
 > Projeto IFPI: Trabalho de Conclução de Disciplina<br/>Programação Corporativa<br/>
 > [Jaca Eventos](https://github.com/leonfers/JacaEventos)<br/>
 > Desenvolvido em Python/Django<br/>
+> Alguns projetos privados que foram desenvolvidos para algumas empresas
 
 ### Expectativas
 > As expectativas quanto a disciplina é adquirir conhecimento quanto a criação e manipulação de dados em uma API.<br/>
